@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my home page. Here you can find details on coding projects I've worked on as well as links to my resume and portfolio.  
+<br/>
+[Resume]({{site.url}}/resume.pdf)  
+<!-- [Portfolio (coming soon)]   -->
+<br/>
+[LinkedIn](https://www.linkedin.com/in/brendan-ward-444562196/)  
+[GitHub](https://github.com/brndnwrd)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+---
+<br/>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Multifaceted Computer Science student with engagement in Embedded Systems, Rendering, Digital Humanities, and Music.
 
+Experience:  
+Media & Design Studio Northwestern - Coder  
+RWTH Aachen University - DAAD RISE Research Scholarship  
 
-[jekyll-organization]: https://github.com/jekyll
+Organizations:  
+Northwestern University Marching Band/Basketball Band  
+Phi Mu Alpha - Warden, Iota Chapter  
+Boy Scouts of America - Eagle Scout  
+
+Hobbies:  
+Music (Euphonium, Trombone, Vocal), 3D Art, Computer Games  
