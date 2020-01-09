@@ -9,7 +9,7 @@ Welcome to my home page. Here you can find details on coding projects I've worke
 [Resume]({{site.url}}/resume.pdf)  
 <!-- [Portfolio (coming soon)]   -->
 <br/>
-[LinkedIn](https://www.linkedin.com/in/brendan-ward-444562196/)  
+[LinkedIn](https://www.linkedin.com/in/brndnwrd/)  
 [GitHub](https://github.com/brndnwrd)
 
 ---
