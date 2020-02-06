@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome to my home page. Here you can find details on coding projects I've worked on as well as links to my resume and portfolio.  
 <br/>
-[Resume]({{site.url}}/resume.pdf)  
+[Resume]({{site.url}}/files/resume/resume.pdf)  
 <!-- [Portfolio (coming soon)]   -->
 <br/>
 [LinkedIn](https://www.linkedin.com/in/brndnwrd/)  
