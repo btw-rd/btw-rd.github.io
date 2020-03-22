@@ -3,10 +3,10 @@ layout: page
 title: Demos
 permalink: /demos/
 icon: fa-code
-order: 3
+order: 4
 ---
 
-<style>img[src*="#preview"]{width:100%}</style>
+<style>img[src*="#preview"]{width:66%}</style>
 
 Here is a collection of projects I have worked on, educational, professional, or personal. Under each you will find a blog post with further details as well as a direct link to the project.  
 <br/>
@@ -15,7 +15,7 @@ Here is a collection of projects I have worked on, educational, professional, or
 <br/>
 
 # GLSL Demo  
-![preview]({{site.url}}/demos/glsl-demo/preview.png#preview)
+![preview]({{site.url}}/demos/glsl-demo/preview.png#preview)  
 The final project of my CS_351-1 Intro to Graphics class, this project demos GLSL vertex and fragment shaders for representing Phong and Gouraud shading with Phong lighting in WebGL, as well as multiple materials.  
 [Blog]({{site.url}}/2020/01/08/glsl-demo.html) | [Demo]({{site.url}}/demos/glsl-demo/glsl-demo.html)  
 

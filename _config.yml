@@ -31,12 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brendan Ward
-# subtitle: Your awesome subtitle
+subtitle: Northwestern CS '21
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science | Northwestern University '21 | Searching for games jobs
 author: Brendan Ward
 email: brndnwrd@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: files/prof.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog

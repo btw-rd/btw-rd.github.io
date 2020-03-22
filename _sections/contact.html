@@ -1,23 +1,24 @@
 ---
-title: Contact
-icon: fa-envelope
+title: More Info
+icon: fa-briefcase
 order: 4
 ---
 
-<p>Elementum sem parturient nulla quam placerat viverra
-mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+<p>Keep up with me on the web or contact me with these links!</p>
 
-<form method="post" action="https://formspree.io/{{ site.email }}">
-  <div class="row">
-    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
-    <div class="12u$">
-      <textarea name="message" placeholder="Message"></textarea>
-    </div>
-    <div class="12u$">
-      <input type="submit" value="Send Message" />
-    </div>
+<div class="row">
+  <div class="3u 12u$(mobile)">
+    <a href="{{site.linkedin_url}}" class="button scrolly"><i class="fab fa-linkedin-in"></i></a>
   </div>
-</form>
+  <div class="3u 12u$(mobile)">
+    <a href="{{site.github_url}}" class="button scrolly"><i class="fab fa-github"></i></a>
+  </div>
+  <div class="3u 12u$(mobile)">
+    <a href="mailto:{{site.email}}" class="button scrolly"><i class="fas fa-envelope"></i></a>
+  </div>
+  <div class="3u 12u$(mobile)">
+    <a href="/resume" class="button scrolly"><i class="fas fa-file-alt"></i></a>
+  </div>
+</div>
+
+
