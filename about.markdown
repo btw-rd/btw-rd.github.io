@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+icon: fa-user
+order: 2
 ---
 
 Welcome to my home page. Here you can find details on coding projects I've worked on as well as links to my resume and portfolio.  
