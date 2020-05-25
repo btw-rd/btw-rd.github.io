@@ -14,6 +14,13 @@ Here is a collection of projects I have worked on, educational, professional, or
 ---
 <br/>
 
+# Synestaether - Unity Game  
+![preview]({{site.url}}/demos/synestaether/preview.png#preview)  
+A 3 month game design project by my 3-person student team, Sans Serif Studios, as part of CS_377 Game Design Studio at Northwestern University. Synestaether is a physics-based puzzle game where the player configures a 3d cube-based world in order to construct routes for marbles to reach their designated buckets.  
+[Blog]() | [Demo]({{site.url}}/demos/synestaether/synestaether.zip)
+
+<br/>
+
 # GLSL Demo  
 ![preview]({{site.url}}/demos/glsl-demo/preview.png#preview)  
 The final project of my CS_351-1 Intro to Graphics class, this project demos GLSL vertex and fragment shaders for representing Phong and Gouraud shading with Phong lighting in WebGL, as well as multiple materials.  
