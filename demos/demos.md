@@ -16,8 +16,8 @@ Here is a collection of projects I have worked on, educational, professional, or
 
 # Synestaether - Unity Game  
 ![preview]({{site.url}}/demos/synestaether/preview.png#preview)  
-A 3 month game design project by my 3-person student team, Sans Serif Studios, as part of CS_377 Game Design Studio at Northwestern University. Synestaether is a physics-based puzzle game where the player configures a 3d cube-based world in order to construct routes for marbles to reach their designated buckets.  
-[Blog]() | [Demo]({{site.url}}/demos/synestaether/synestaether.zip)
+A six week game design project by my 3-person student team, Sans Serif Studios, as part of CS_377 Game Design Studio at Northwestern University. Synestaether is a physics-based puzzle game where the player configures a 3d cube-based world in order to construct routes for marbles to reach their designated buckets.  
+[Blog]({{site.url}}/2020/05/25/synestaether-demo.html) | [Demo]({{site.url}}/demos/synestaether/synestaether.zip)
 
 <br/>
 
