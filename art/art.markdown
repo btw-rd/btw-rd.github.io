@@ -3,7 +3,7 @@ layout: page
 title: Portfolio - Art
 permalink: /art/
 icon: fa-images
-order: 5
+order: 3
 ---
 
 <style>img[src*="#"]{width:100%}</style>

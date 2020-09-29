@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 icon: fa-user
-order: 2
+order: 5
 ---
 
 Welcome to my home page. Here you can find details on coding projects I've worked on as well as links to my resume and portfolio.  
@@ -17,12 +17,13 @@ Welcome to my home page. Here you can find details on coding projects I've worke
 ---
 <br/>
 
-Multifaceted Computer Science student with engagement in Embedded Systems, Rendering, Digital Humanities, and Music.
-
+Computer science student engaged in tech art, tools, and games programming  
+  
 Experience:  
+Independent character art and tech art tools  
 Media & Design Studio Northwestern - Coder  
 RWTH Aachen University - DAAD RISE Research Scholarship  
-
+  
 Organizations:  
 Northwestern University Marching Band/Basketball Band  
 Phi Mu Alpha - Warden, Iota Chapter  
