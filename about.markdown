@@ -6,17 +6,6 @@ icon: fa-user
 order: 5
 ---
 
-Welcome to my home page. Here you can find details on coding projects I've worked on as well as links to my resume and portfolio.  
-<br/>
-[Resume]({{site.url}}/files/resume/resume.pdf)  
-<!-- [Portfolio (coming soon)]   -->
-<br/>
-[LinkedIn](https://www.linkedin.com/in/brndnwrd/)  
-[GitHub](https://github.com/brndnwrd)
-
----
-<br/>
-
 Computer science student engaged in tech art, tools, and games programming  
   
 Experience:  
