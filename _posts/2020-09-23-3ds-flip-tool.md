@@ -4,10 +4,10 @@ title: "3ds Max Flip Tool"
 date: 2020-09-23
 tags: [code, 3ds max, gamedev, game, 3d, digital content, tools, tech art, script, add-on, addon, maxscript]
 ---
-<style>img[src*="#preview"]{width:100%}</style>
+<style>img[src*="#preview"]{float:left; width:60%; padding-right: 20px}</style>
 
-![preview-image]({{site.url}}/code/flip-tool/preview.png#preview)  
-A tool for 3ds Max I made using maxscript. The script is designed to overcome limitations in a workflow based on importing bones as dummies. The goal is to be able to mirror a selected mesh and replace all bones ending in either '_l' or '_r' on the copy with their opposite side counterpart while keeping the correct weight.  
+![preview-image]({{site.url}}/code/flip-tool/preview.png#preview)
+A tool for 3ds Max made in maxscript. The script is designed to overcome limitations in a workflow based on importing bones as dummies. The goal is to be able to mirror a selected mesh and replace all bones ending in either '_l' or '_r' on the copy with their opposite side counterpart while keeping the correct weight.  
   
 Normally this could be achieved by using 3ds' built-in mirror mode, but in certain situations where two dummy bones occupy the same space on the center line, mirror mode can fail to recognize them as center bones and instead set them as l/r opposites, ruining the skin.  
 
