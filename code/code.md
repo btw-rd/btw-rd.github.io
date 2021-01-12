@@ -9,7 +9,7 @@ order: 2
 <style>img[src*="#preview"]{width:100%;display:block}div.entry{display:inline-block;padding-top:40px}</style>
 {::options parse_block_html="true" /}
 
-Tools & game programming projects.  
+Tech art, tools, and game programming projects.  
 
 ---
 
@@ -25,6 +25,19 @@ A Blender add-on designed to recreate the material system of equipment in Final 
 
 The key to this system is that it allows preset palettes, or portions of palettes, to be easily interchanged to create palette swaps, material variants, and player customization of colors.  
 [Read More]({{site.url}}/2020/09/27/paint-by-numbers.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
+## Introstructure - Maya MEL Scene Generation
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/introstructure/random_short.png#preview)  
+</div>
+<div class="6u 12u$(mobile)">
+An MEL script and base scene for Maya which generates a scenic river valley of variable length and animates a boat with camera to float gently down the river. My first experience using MEL. The main hurdle at the start was establishing a comfortable working setup with PyMEL and using VS Code as a useful editor. I will be expanding on this project in the coming months, focusing on performance improvements, automated rendering control, additional variants for scenery, and new points of interest.  
+[Read More]({{site.url}}/2021/01/11/introstructure.html)
 </div>
 </div>
 </div>
