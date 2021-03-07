@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio - Code
+title: Portfolio
 permalink: /code/
 icon: fa-code
 order: 2
