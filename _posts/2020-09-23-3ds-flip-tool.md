@@ -14,3 +14,4 @@ Normally this could be achieved by using 3ds' built-in mirror mode, but in certa
 I chose to stick with a simple string-based solution for determing left and right because this situation was based on a particular game's skeleton system where the issue was becoming an obstruction.  
 
 The tool was designed to streamline the existing workflow artists were using to circumvent the issue. The artists I consulted with were saving out the envelopes from their properly skinned half, loading them on the mirrored half, and then manually associating the '_l' and '_r' bones in the envelope import screen. I originally sought to recreate this directly via script, however by my research I could not control the envelope import screen through maxscript. In the end, I decided to create something with as much of the same functionality as possible, but using maxscript's skinOps methods.  
+[Download]({{site.url}}/code/flip-tool/Flip_Tool.ms)
