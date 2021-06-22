@@ -6,7 +6,7 @@ icon: fa-user
 order: 5
 ---
 
-Computer science student engaged in tech art, tools, and games programming  
+Computer science grad engaged in tech art, tools, and games programming  
   
 Experience:  
 Independent character art and tech art tools  
