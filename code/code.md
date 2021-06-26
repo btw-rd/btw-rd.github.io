@@ -51,7 +51,7 @@ The key to this system is that it allows preset palettes, or portions of palette
 ![preview]({{site.url}}/code/introstructure/code_snip.png#preview)  
 </div>
 <div class="6u 12u$(mobile)">
-An MEL script and base scene for Maya which generates a scenic river valley of variable length and animates a boat with camera to float gently down the river. My first experience using MEL. The main hurdle at the start was establishing a comfortable working setup with PyMEL and using VS Code as a useful editor. I will be expanding on this project in the coming months, focusing on performance improvements, automated rendering control, additional variants for scenery, and new points of interest.  
+A MEL script and base scene for Maya which generates a scenic river valley of variable length and animates a boat with camera to float gently down the river. My first experience using MEL. The main hurdle at the start was establishing a comfortable working setup with PyMEL and using VS Code as a useful editor. I will be expanding on this project in the coming months, focusing on performance improvements, automated rendering control, additional variants for scenery, and new points of interest.  
 [Read More]({{site.url}}/2021/01/11/introstructure.html)
 </div>
 </div>
