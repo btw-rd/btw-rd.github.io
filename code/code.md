@@ -7,11 +7,26 @@ order: 2
 ---
 
 <style>img[src*="#preview"]{width:100%;display:block}div.entry{display:inline-block;padding-top:40px}</style>
+<style>video{width:100%;display:block}div.entry{display:inline-block;padding-top:40px}</style>
 {::options parse_block_html="true" /}
 
 Tech art, tools, and game programming projects.  
 
 ---
+<div class="entry">
+## Web News Search
+<div class="row">
+<div class="6u 12u$(mobile)">
+<video autoplay muted loop>
+    <source src="{{site.url}}/code/news-search/news-search.mp4" type="video/mp4">
+</video>
+</div>
+<div class="6u 12u$(mobile)">
+A pipeline for web news archival and search. Consists of three parts: an ETL tool which transfers articles from Common Crawl archives to an Amazon Elasticsearch index, a Java application which implements a REST API for search queries, and a React frontend which allows users to easily set up searches and preview results.  
+[Read More]({{site.url}}/2021/02/13/news-search.html)
+</div>
+</div>
+</div>
 
 <div class="entry">
 ## Paint-By-Numbers Add-on & Shader
@@ -68,6 +83,15 @@ A six week game design project by my 3-person student team, Sans Serif Studios, 
 </div>
 </div>
 
-<!--<br/>
-## Sample Demo
-Sample Demo Text-->
+<!-- <div class="entry">
+## title
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/path-to-image#preview)  
+</div>
+<div class="6u 12u$(mobile)">
+Description  
+[Read More]({{site.url}}/path-to-blog)
+</div>
+</div>
+</div> -->
