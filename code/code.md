@@ -14,6 +14,44 @@ Tech art, tools, and game programming projects.
 
 ---
 <div class="entry">
+## Generative \#3: Creepy Crawly
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/generative/tent_preview.png#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+I realized much of the work I did in the teeth demo would be simplified with curve nodes from the Blender 3.0 alpha. To practice with these tools, I created this toy which uses a combination of techniques in order to build a tentacle or vine that follows any bezier curve and is populated with random wiggly offshoots at regular intervals.  
+[Read More]({{site.url}}/2021/07/22/generative-crawly.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
+## Generative \#2: Teeth
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/generative/teeth_preview.png#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+My first project with Blender's geometry nodes. This generator creates teeth and gums from a variety of input parameters and a selectable base tooth object. Inputs affect the width, length, curvature, and density of the mouth. Automatic operations are applied based on the tooth object, such as rotating it to align with the curvature of the mouth and scaling its width based on its position in the mouth. Gums are created from a volume which recedes based on distance to points on tooth object.  
+[Read More]({{site.url}}/2021/07/22/generative-teeth.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
+## Generative \#1: Substance Cow Print
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/generative/cow_print.png#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+My first project in Substance Designer, a scalable cow print pattern mask. Made by composing perlin noise with a series of slope blur operations before clamping it to values of 0 or 1, giving the pattern sharp boundaries.  
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## Web News Search
 <div class="row">
 <div class="6u 12u$(mobile)">
