@@ -25,4 +25,4 @@ Offshoots are instanced along the curve based on distance (although spacing an e
 </div>
 The offshoots are generated from a line where each point's position is randomized with increasing spread as its index increases, such that the origin point of the curve stays put. The amount of variance is controlled by an input and scaled by the length input of the graph as well. In order to create a shape from the line, each point is scaled to create a gently tapering effect, then the line of points is turned into a mesh via a volume conversion.  
 
-The resulting shape is quite satisfying to move around and watch as it responds, but I don't foresee this being of much use given how dependent it is several disparate elements within the scene.
+The resulting shape is quite satisfying to move around and watch as it responds, but I don't foresee this being of much use given how dependent it is several disparate elements within the scene. It would be much more concise if I could instantiate offshoots with a random seed rather than depending on a pre-prepared collection.
