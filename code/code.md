@@ -14,6 +14,19 @@ Tech art, tools, and game programming projects.
 
 ---
 <div class="entry">
+## JSON Pose Add-on
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/json-pose/video.mp4#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+A Blender Add-on for easy, approachable loading of JSON-based pose files onto an armature. This project is designed to interface with files produced by a fan-made tool for a popular MMO. Poses are saved in a JSON file format defined by the compatible tool, with rotation, scale, and position offset values for each bone. Rotation is stored as-read from the game's memory, quaternions in the character's local space. Blender pose rotations are relative to the bones rest position, so the add-on must convert these rotations.  
+[Read More]({{site.url}}/2021/11/04/json-pose-1.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## Generative \#3: Creepy Crawly
 <div class="row">
 <div class="6u 12u$(mobile)">
