@@ -45,6 +45,19 @@ The key to this system is that it allows preset palettes, or portions of palette
 </div>
 
 <div class="entry">
+## Art Sample: Sailor Shorts
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/sailor-shorts/front.png#preview)  
+</div>
+<div class="6u 12u$(mobile)">
+A simple character asset; mesh created in Blender and material created in Substance Painter. These sailor shorts were textured almost entirely with careful application of masks, generators, and filters, minimal painting. Details include custom seams made with auto-stitcher, UV-border masks, and crease generators; buttonhole stitching; and a simple anchor system for masks separating the shorts, hems, and buttons into distinct sections on the same texture. Follow the link for more angles.
+[Read More]({{site.url}}/2021/11/29/sailor-shorts.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## Generative \#3: Creepy Crawly
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -83,21 +96,6 @@ My first project in Substance Designer, a scalable cow print pattern mask. Made 
 </div>
 
 <div class="entry">
-## Web News Search
-<div class="row">
-<div class="6u 12u$(mobile)">
-<video autoplay muted loop>
-    <source src="{{site.url}}/code/news-search/news-search.mp4" type="video/mp4">
-</video>
-</div>
-<div class="6u 12u$(mobile)">
-A pipeline for web news archival and search. Consists of three parts: an ETL tool which transfers articles from Common Crawl archives to an Amazon Elasticsearch index, a Java application which implements a REST API for search queries, and a React frontend which allows users to easily set up searches and preview results.  
-[Read More]({{site.url}}/2021/02/13/news-search.html)
-</div>
-</div>
-</div>
-
-<div class="entry">
 ## Introstructure - Maya MEL Scene Generation
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -119,6 +117,21 @@ A MEL script and base scene for Maya which generates a scenic river valley of va
 <div class="6u 12u$(mobile)">
 A tool for 3ds Max made in maxscript. The script is designed to overcome limitations in a workflow based on importing bones as dummies. The goal is to be able to mirror a selected mesh and replace all bones ending in either '_l' or '_r' on the copy with their opposite side counterpart while keeping the correct weight.  
 [Read More]({{site.url}}/2020/09/23/3ds-flip-tool.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
+## Web News Search
+<div class="row">
+<div class="6u 12u$(mobile)">
+<video autoplay muted loop>
+    <source src="{{site.url}}/code/news-search/news-search.mp4" type="video/mp4">
+</video>
+</div>
+<div class="6u 12u$(mobile)">
+A pipeline for web news archival and search. Consists of three parts: an ETL tool which transfers articles from Common Crawl archives to an Amazon Elasticsearch index, a Java application which implements a REST API for search queries, and a React frontend which allows users to easily set up searches and preview results.  
+[Read More]({{site.url}}/2021/02/13/news-search.html)
 </div>
 </div>
 </div>
