@@ -6,9 +6,10 @@ icon: fa-user
 order: 5
 ---
 
-Computer science grad engaged in tech art, tools, and games programming  
+Technical Artist at Electronic Arts (EA).  
   
 Experience:  
+EA Create Animation - Technical Artist  
 Independent character art and tech art tools  
 Media & Design Studio Northwestern - Coder  
 RWTH Aachen University - DAAD RISE Research Scholarship  
