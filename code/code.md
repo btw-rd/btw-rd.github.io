@@ -45,6 +45,19 @@ The key to this system is that it allows preset palettes, or portions of palette
 </div>
 
 <div class="entry">
+## 3ds Flip Tool  
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/flip-tool/preview.png#preview)
+</div>
+<div class="6u 12u$(mobile)">
+A tool for 3ds Max made in maxscript. The script is designed to overcome limitations in a workflow based on importing bones as dummies. The goal is to be able to mirror a selected mesh and replace all bones ending in either '_l' or '_r' on the copy with their opposite side counterpart while keeping the correct weight.  
+[Read More]({{site.url}}/2020/09/23/3ds-flip-tool.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## Generative \#3: Creepy Crawly
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -91,19 +104,6 @@ My first project in Substance Designer, a scalable cow print pattern mask. Made 
 <div class="6u 12u$(mobile)">
 A MEL script and base scene for Maya which generates a scenic river valley of variable length and animates a boat with camera to float gently down the river. My first experience using MEL. The main hurdle at the start was establishing a comfortable working setup with PyMEL and using VS Code as a useful editor. I will be expanding on this project in the coming months, focusing on performance improvements, automated rendering control, additional variants for scenery, and new points of interest.  
 [Read More]({{site.url}}/2021/01/11/introstructure.html)
-</div>
-</div>
-</div>
-
-<div class="entry">
-## 3ds Flip Tool  
-<div class="row">
-<div class="6u 12u$(mobile)">
-![preview]({{site.url}}/code/flip-tool/preview.png#preview)
-</div>
-<div class="6u 12u$(mobile)">
-A tool for 3ds Max made in maxscript. The script is designed to overcome limitations in a workflow based on importing bones as dummies. The goal is to be able to mirror a selected mesh and replace all bones ending in either '_l' or '_r' on the copy with their opposite side counterpart while keeping the correct weight.  
-[Read More]({{site.url}}/2020/09/23/3ds-flip-tool.html)
 </div>
 </div>
 </div>
