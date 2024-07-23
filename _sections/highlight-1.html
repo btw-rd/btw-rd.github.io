@@ -1,19 +1,23 @@
 ---
-title: Recent Tools
-icon: fa-toolbox
+title: Recent Code
+icon: fa-keyboard
 order: 2
 ---
 
 
 
+<style>video{width:100%;display:block}div.row{display:inline-block;padding-top:40px}</style>
+
 <div class="row">
     <div class="6u 12u$(mobile)">
       <div class="item">
-          <a href="#" class="image fit"><img src="/code/paint-by-numbers/pbn-addon.png"></a>
+          <video autoplay muted loop>
+            <source src="/code/news-search/news-search.mp4" type="video/mp4">
+          </video>
       </div>
     </div>
     <div class="6u 12u$(mobile)">
-        <h4>Paint-By-Numbers Add-on & Script</h4>
-        <p>A Blender add-on designed to recreate the material system of equipment in Final Fantasy XIV. The texture is split up into up to 16 sections based on the alpha channel of the Normal Map. Each section is then mapped to values from a ‘palette’ file. This allows preset palettes, or portions of palettes, to be easily interchanged to create palette swaps, material variants, and player customization of colors [<a href="/2020/09/27/paint-by-numbers.html">...</a>]</p>
+        <h4>Web News Search</h4>
+        <p>A pipeline for web news archival and search. Consists of three parts: an ETL tool which transfers articles from Common Crawl archives to an Amazon Elasticsearch index, a Java application which implements a REST API for search queries, and a React frontend which allows users to easily set up searches and preview results. [<a href="/2021/02/13/news-search.html">...</a>]</p>
     </div>
 </div>
