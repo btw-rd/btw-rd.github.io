@@ -8,5 +8,5 @@ tags: [glsl, webgl, code, graphics, rendering]
 
 ![preview-image]({{site.url}}/code/glsl-demo/preview.png#preview)  
 The final project of my CS_351-1 Intro to Graphics class, this project demos GLSL vertex and fragment shaders for representing Phong and Gouraud shading with Phong lighting in WebGL, as well as multiple materials.  
-The completed project, including the original report, can be viewed on my github profile [here](https://github.com/brndnwrd/WebGL-Exploration-3)  
+The completed project, including the original report, can be viewed on my github profile [here](https://github.com/btw-rd/WebGL-Exploration-3)  
 [Demo]({{site.url}}/code/glsl-demo/glsl-demo.html)
