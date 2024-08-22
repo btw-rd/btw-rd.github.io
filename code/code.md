@@ -33,7 +33,7 @@ At Electronic Arts I was one of three technical artists within CREATE Animation,
 ![preview]({{site.url}}/code/boots/boots_engine.png#preview) 
 </div>
 <div class="6u 12u$(mobile)">
-Game art sample created for a personal project. Boots targetting roughly a late-seventh-generation to early-eighth-generation spec, pre-PBR (diffuse, normal, specular, and gloss). Modeled in Blender, textured in Substance Painter.
+Game art sample created for a personal project. Leather motorcycle boots targetting roughly a late-seventh-generation to early-eighth-generation spec, pre-PBR (diffuse, normal, specular, and gloss). Modeled in Blender, textured in Substance Painter.
 [Read More]({{site.url}}/2024/08/22/Boots.html)
 </div>
 </div>
