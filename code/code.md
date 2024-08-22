@@ -27,6 +27,19 @@ At Electronic Arts I was one of three technical artists within CREATE Animation,
 </div>
 
 <div class="entry">
+## Game Art: Boots
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/boots/boots_engine.png#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+Game art sample created for a personal project. Boots targetting roughly a late-seventh-generation to early-eighth-generation spec, pre-PBR (diffuse, normal, specular, and gloss). Modeled in Blender, textured in Substance Painter.
+[Read More]({{site.url}}/2024/08/22/Boots.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## JSON Pose Add-on
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -70,7 +83,7 @@ A tool for 3ds Max made in maxscript. The script is designed to overcome limitat
 </div>
 </div>
 
-<div class="entry">
+<!-- <div class="entry">
 ## Generative \#3: Creepy Crawly
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -81,9 +94,9 @@ I realized much of the work I did in the teeth demo would be simplified with cur
 [Read More]({{site.url}}/2021/07/22/generative-crawly.html)
 </div>
 </div>
-</div>
+</div> -->
 
-<div class="entry">
+<!-- <div class="entry">
 ## Generative \#2: Teeth
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -94,7 +107,7 @@ My first project with Blender's geometry nodes. This generator creates teeth and
 [Read More]({{site.url}}/2021/07/22/generative-teeth.html)
 </div>
 </div>
-</div>
+</div> -->
 
 <div class="entry">
 ## Generative \#1: Substance Cow Print
@@ -136,7 +149,7 @@ A pipeline for web news archival and search. Consists of three parts: an ETL too
 </div>
 </div>
 
-<div class="entry">
+<!-- <div class="entry">
 ## Synestaether - Unity Game  
 <div class="row">
 <div class="6u 12u$(mobile)">
@@ -147,7 +160,7 @@ A six week game design project by my 3-person student team, Sans Serif Studios, 
 [Read More]({{site.url}}/2020/05/25/synestaether-demo.html) | [Explore]({{site.url}}/code/synestaether/synestaether.zip)
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- <div class="entry">
 ## title
