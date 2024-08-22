@@ -40,6 +40,25 @@ Game art sample created for a personal project. Boots targetting roughly a late-
 </div>
 
 <div class="entry">
+## Generative: Curves, Straps, and Trim
+<div class="row">
+<div class="6u 12u$(mobile)">
+<video autoplay muted loop>
+    <source src="{{site.url}}/code/nodes_2023/nodes_belt.mp4" type="video/mp4">
+</video>
+<p></p>
+<video autoplay muted loop>
+    <source src="{{site.url}}/code/nodes_2023/nodes_trim.mp4" type="video/mp4">
+</video>
+</div>
+<div class="6u 12u$(mobile)">
+A collection of procedural tools created with Blender's Geometry Nodes system in order to ease my workflow on hobby game art projects, with a focus on powerful nondestructive workflows. These two examples serve to recreate and extend the functionality of Blender's built-in methods for generating a mesh from a bezier curve.  
+[Read More]({{site.url}}/2024/08/22/nodes-2023.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## JSON Pose Add-on
 <div class="row">
 <div class="6u 12u$(mobile)">
