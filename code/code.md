@@ -21,7 +21,7 @@ Tech art, tools, and game programming projects.
 </div>
 <div class="6u 12u$(mobile)">
 At Electronic Arts I was one of three technical artists within CREATE Animation, a group of animators primarily focused on cinematics. Small groups from our team were assigned on an ad hoc basis to provide short-term support to ongoing projects across the company. As a result, my responsibilities were centered around rapidly coming up to speed on new technology stacks and ensuring smooth transitions for my team members. In my biggest project, I took ownership of a repurposed customizable animation picker tool for animating monsters in Dragon Age: The Veilguard.  
-[Read More]({{site.url}}/2024/08/21/EA.html)
+[Read More]({{site.url}}/2024/08/21/ea.html)
 </div>
 </div>
 </div>
@@ -34,7 +34,7 @@ At Electronic Arts I was one of three technical artists within CREATE Animation,
 </div>
 <div class="6u 12u$(mobile)">
 Game art sample created for a personal project. Leather motorcycle boots targetting roughly a late-seventh-generation to early-eighth-generation spec, pre-PBR (diffuse, normal, specular, and gloss). Modeled in Blender, textured in Substance Painter.
-[Read More]({{site.url}}/2024/08/22/Boots.html)
+[Read More]({{site.url}}/2024/08/22/boots.html)
 </div>
 </div>
 </div>
