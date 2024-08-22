@@ -27,7 +27,7 @@ At Electronic Arts I was one of three technical artists within CREATE Animation,
 </div>
 
 <div class="entry">
-## Game Art: Boots
+## Game Art: Motorcyle Boots
 <div class="row">
 <div class="6u 12u$(mobile)">
 ![preview]({{site.url}}/code/boots/boots_engine.png#preview) 
