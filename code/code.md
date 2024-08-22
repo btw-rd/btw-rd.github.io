@@ -14,6 +14,19 @@ Tech art, tools, and game programming projects.
 
 ---
 <div class="entry">
+## Technical Artist at Electronic Arts
+<div class="row">
+<div class="6u 12u$(mobile)">
+![preview]({{site.url}}/code/EA/EA_demo.png#preview) 
+</div>
+<div class="6u 12u$(mobile)">
+At Electronic Arts I was one of three technical artists within CREATE Animation, a group of animators primarily focused on cinematics. Small groups from our team were assigned on an ad hoc basis to provide short-term support to ongoing projects across the company. As a result, my responsibilities were centered around rapidly coming up to speed on new technology stacks and ensuring smooth transitions for my team members. In my biggest project, I took ownership of a repurposed customizable animation picker tool for animating monsters in Dragon Age: The Veilguard.  
+[Read More]({{site.url}}/2024/08/21/EA.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## JSON Pose Add-on
 <div class="row">
 <div class="6u 12u$(mobile)">
