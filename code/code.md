@@ -78,6 +78,21 @@ A Blender Add-on for easy, approachable loading of JSON-based pose files onto an
 </div>
 
 <div class="entry">
+## Substance Composite Plugin
+<div class="row">
+<div class="6u 12u$(mobile)">
+<video autoplay muted loop>
+    <source src="{{site.url}}/code/substance-composite/video.mp4" type="video/mp4">
+</video> 
+</div>
+<div class="6u 12u$(mobile)">
+A python Substance plugin for automatically compositing exported maps according to their suffixes, triggered after export. Created to work around the limited masking function of the pen tool in Substance Painter 2023, necessitating meshes in close proximity to be broken apart into multiple Texture Sets in order to not interfere with pen stroke projection.  
+[Read More]({{site.url}}/2025/02/25/substance-composite.html)
+</div>
+</div>
+</div>
+
+<div class="entry">
 ## Paint-By-Numbers Add-on & Shader
 <div class="row">
 <div class="6u 12u$(mobile)">
